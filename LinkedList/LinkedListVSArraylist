@@ -1,0 +1,30 @@
+    //arraylist is you cannot resize , it is fixed size, physically stored in memory location, 
+	//has element and has only one pointer
+	//accessing an element takes constant time O(1) and adding element takes O(n) time
+	
+	
+	//why do we need a linkedlist? , a linked data structure consists of item that are linked to other items
+	//and each item point to another item
+	//has node and two pointer
+	//adding element takes O(n) time. and accessing element also takes O(n)
+	//LinkedList uses more memory than arrayList
+	
+	//***Linkedlist implements it with a doubly-linked list
+	//***Arraylist implements it with a dynamically re-sizing array.
+	
+	/*
+	 * Advantages of LinkedList
+	 * Dynamic data structure
+	 * No memory wastage
+	 * implementation - linear data structures like stack and queues are often easily implemented using a linked list.
+	 * insertion and deletion operation are quite easier in the linked list
+	 */
+	
+	/*Disadvantages of linked list
+	 * memory usage- more memory is required in the linked list
+	 * traversal - linked list traversal is more time consuming as compared to an arraylist
+	 * reverse traversing- singly-linked traverse is not possible
+	 * random
+	 */
+			
+	

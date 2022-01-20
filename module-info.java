@@ -1,0 +1,2 @@
+module LessonsCS260 {
+}

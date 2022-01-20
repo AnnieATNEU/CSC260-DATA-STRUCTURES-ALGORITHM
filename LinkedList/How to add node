@@ -1,0 +1,28 @@
+
+//=======How to insert  new node in the beginning
+1.    //create a new node
+2.   //check if the list is empty
+3.      //make the new node as head
+4.      //Point the new node's next to head
+5.   //make the new node as head
+
+
+//=======How to insert  new node in the middle
+
+1. Create a new node
+2. Init the cur and prev nodes to the head
+3.  point the new node's next to head
+4.  make the new node as head
+
+
+
+//=========How to insert  new node in the exact position
+
+1. create a new node
+2. make the cur and prev nodes to the head
+3. point the new node;s next to head
+4. make the new node as head
+5. traverse to the end of the list and check positions moved
+6. update the prev and cur preferences
+7. update prev  to point to new node
+8. make  a new node to point to current node
